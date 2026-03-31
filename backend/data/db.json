@@ -11,6 +11,16 @@
       "emailId": "admin@gmail.com"
     },
     {
+      "id": 2,
+      "name": "Demo Student",
+      "emailId": "student@gmail.com",
+      "role": "student",
+      "department": "CSE",
+      "classSection": "A",
+      "rollNumber": "24CS360",
+      "registrationNumber": "3123241040"
+    },
+    {
       "id": 5,
       "name": "Diana Evans",
       "rollNumber": "R1004",

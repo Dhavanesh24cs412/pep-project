@@ -34,7 +34,8 @@ app.get('/api/seed', async (req, res) => {
                 { "id": 8, "name": "George Hall", "rollNumber": "R1007", "department": "ECE", "registrationNumber": "REG2007", "classSection": "A", "emailId": "george@gmail.com", "role": "student" },
                 { "id": 9, "name": "Hannah King", "rollNumber": "R1008", "department": "EEE", "registrationNumber": "REG2008", "classSection": "B", "emailId": "hannah@gmail.com", "role": "student" },
                 { "id": 10, "name": "Ian Lewis", "rollNumber": "R1009", "department": "IT", "registrationNumber": "REG2009", "classSection": "C", "emailId": "ian@gmail.com", "role": "student" },
-                { "id": 11, "name": "Julia Martin", "rollNumber": "R1010", "department": "CSE", "registrationNumber": "REG2010", "classSection": "A", "emailId": "julia@gmail.com", "role": "student" }
+                { "id": 11, "name": "Julia Martin", "rollNumber": "R1010", "department": "CSE", "registrationNumber": "REG2010", "classSection": "A", "emailId": "julia@gmail.com", "role": "student" },
+                { "id": 12, "name": "Demo Student", "emailId": "student@gmail.com", "role": "student", "department": "CSE", "classSection": "A", "rollNumber": "24CS360", "registrationNumber": "3123241040" }
             ],
             "tests": [
                 {
